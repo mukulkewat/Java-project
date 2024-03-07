@@ -1,7 +1,7 @@
 
 import java.util.*;
 public class Test1 {
-    //Test1, main, x, args,and String is identifier.
+   
     public static void main(String[] args) {
 //        String name = "Mukul";
 //        double Mscper = 73.3;
